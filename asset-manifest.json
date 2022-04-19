@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pradumansharma099.github.io/csb-0dviv6/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pradumansharma099.github.io/csb-0dviv6/static/js/main.2f4d1f72.chunk.js",
+    "main.js.map": "https://pradumansharma099.github.io/csb-0dviv6/static/js/main.2f4d1f72.chunk.js.map",
+    "runtime-main.js": "https://pradumansharma099.github.io/csb-0dviv6/static/js/runtime-main.fa7fa32e.js",
+    "runtime-main.js.map": "https://pradumansharma099.github.io/csb-0dviv6/static/js/runtime-main.fa7fa32e.js.map",
+    "static/js/2.fb3f7e9f.chunk.js": "https://pradumansharma099.github.io/csb-0dviv6/static/js/2.fb3f7e9f.chunk.js",
+    "static/js/2.fb3f7e9f.chunk.js.map": "https://pradumansharma099.github.io/csb-0dviv6/static/js/2.fb3f7e9f.chunk.js.map",
+    "index.html": "https://pradumansharma099.github.io/csb-0dviv6/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pradumansharma099.github.io/csb-0dviv6/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fb3f7e9f.chunk.js.LICENSE.txt": "https://pradumansharma099.github.io/csb-0dviv6/static/js/2.fb3f7e9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa7fa32e.js",
+    "static/js/2.fb3f7e9f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2f4d1f72.chunk.js"
+  ]
+}
